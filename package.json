@@ -1,7 +1,8 @@
 {
   "name": "jokes",
   "version": "1.0.0",
-  "description": "",
+  "description": "docker Jokes",
+  "repository": "https://github.com/rafasoyyo/jokes",
   "main": "index.js",
   "scripts": {
     "start": "node index"
